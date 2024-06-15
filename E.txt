@@ -2,4 +2,4 @@ Scaler
 Bangalore
 Mumbai
 Delhi
-Gurgaon
+Faridabad
